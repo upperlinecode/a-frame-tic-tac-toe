@@ -11,7 +11,7 @@ Create a game of tic tac toe using boxes floating in the air. Give the camera a 
 
 ### Intermediate
 
-Use jQuery click handlers on individual boxes to keep track of what boxes have been clicked. Store this data in an array and build an algorithm to let the user know when the game is over (and who won).
+Use click handlers on individual boxes to keep track of what boxes have been clicked. Store this data in an array and build an algorithm to let the user know when the game is over (and who won).
 
 ### Advanced (HARD)
 
