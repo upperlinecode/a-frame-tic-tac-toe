@@ -13,6 +13,8 @@ Create a game of tic tac toe using boxes floating in the air. Give the camera a 
 
 Use click handlers on individual boxes to keep track of what boxes have been clicked. Store this data in an array and build an algorithm to let the user know when the game is over (and who won).
 
+You can find an example of a working game here: https://twant.github.io/3D-tic-tac-toe/
+
 ### Advanced (HARD)
 
 MULTI PLAYER! Use web sockets (socket.io) to have two players meet in the same virtual world to play 3D tic-tac-toe.
